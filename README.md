@@ -1,10 +1,10 @@
-# [Tu Nombre Completo]
+# Sara Camacho E,
 
-![Logo](assets/img/logo.png)
+
 
 ¡Hola! Soy médica con formación en epidemiología y análisis de datos. Bienvenido/a a mi portafolio de proyectos.
 
-[Ver mi perfil de GitHub](https://github.com/TU-USUARIO) · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO/)
+[Ver mi perfil de GitHub](https://github.com/Sara-MST) · [LinkedIn](https://www.linkedin.com/in/sara-camacho-es/)
 
 ---
 
@@ -63,7 +63,7 @@ Un centro de contacto (call center) necesitaba identificar de forma objetiva qu�
 - Las pruebas estadísticas confirmaron diferencias significativas entre operadores eficientes e ineficaces, validando la utilidad de estos indicadores.
 - **Recomendaciones:** implementar un dashboard de monitoreo para supervisores, generar alertas automáticas al superar umbrales críticos, y usar la clasificación como herramienta de seguimiento —no como única medida de evaluación— complementándola con indicadores de calidad.
 
-**[Explora el repositorio completo →](https://github.com/TU-USUARIO/nombre-del-repo)**
+
 
 ---
 
@@ -93,7 +93,7 @@ Evaluación de un nuevo sistema de recomendaciones mediante un experimento A/B, 
 - La única diferencia estadísticamente significativa entre grupos ocurrió en la etapa de "página de producto": el nuevo sistema modifica el comportamiento inicial de navegación, **pero no genera un aumento significativo en las compras**.
 - **Recomendación:** no implementar el cambio a escala completa; el efecto observado no justifica el costo sin evidencia de impacto en la conversión final.
 
-**[Explora el repositorio completo →](https://github.com/TU-USUARIO/nombre-del-repo)**
+
 
 ---
 
@@ -123,7 +123,7 @@ Análisis de ventas de videojuegos por plataforma, género y región (EE. UU., E
 - Los géneros Acción y Disparos concentran la mayor rentabilidad; clasificaciones como "Mature" y "Everyone" impactan las ventas de forma distinta según la región.
 - **Recomendación:** diseñar estrategias comerciales segmentadas por región en lugar de una aproximación única para todos los mercados.
 
-**[Explora el repositorio completo →](https://github.com/TU-USUARIO/nombre-del-repo)**
+
 
 ---
 
@@ -148,7 +148,7 @@ Exploración de una base de datos relacional (libros, autores, editoriales, rese
 - Entre los autores con libros de al menos 50 calificaciones, J.K. Rowling / Mary GrandPré lidera con un promedio de 4.29.
 - Los usuarios que califican más de 50 libros escriben en promedio 24.33 reseñas de texto: **califican más de lo que escriben**, un patrón relevante para diseñar estrategias de engagement.
 
-**[Explora el repositorio completo →](https://github.com/TU-USUARIO/nombre-del-repo)**
+
 
 ---
 
