@@ -54,7 +54,7 @@ Evaluación de un nuevo sistema de recomendaciones mediante un experimento A/B, 
 
 `Python` `Pandas` `SciPy` `Statsmodels` `Tests A/B` `Corrección de Bonferroni`
 
-![texto](assets/img/abtestembudo.png)
+![texto](assets/img/abtest-embudo.png)
 <!-- ![Embudo de conversión por grupo A/B](assets/img/abtest-embudo.png) -->
 
 **Metodología:** verificación de la asignación aleatoria de ~14,500 usuarios; construcción del embudo (login → producto → carrito → compra); pruebas de proporciones con corrección de Bonferroni por comparar 4 eventos simultáneamente.
