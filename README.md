@@ -37,7 +37,7 @@ Un centro de contacto necesitaba identificar de forma objetiva qué operadores t
 
 `Python` `Pandas` `SciPy (Shapiro-Wilk, Mann-Whitney)` `Seaborn` `Pruebas de hipótesis`
 
-<!-- Sube tu captura del boxplot de tiempos de espera y descomenta esta línea: -->
+![texto](assets/img/callcenter-boxplot.png
 <!-- ![Comparación de tiempos de espera entre operadores](assets/img/callcenter-boxplot.png) -->
 
 **Metodología:** limpieza de 53,902 registros de llamadas de 45,730 operadores (ago–nov 2019); construcción de indicadores por operador (tasa de llamadas perdidas, tiempo promedio de espera, duración promedio); prueba de normalidad (Shapiro-Wilk) y prueba no paramétrica (Mann-Whitney) para comparar tiempos de espera entre operadores eficientes e ineficaces.
@@ -54,7 +54,7 @@ Evaluación de un nuevo sistema de recomendaciones mediante un experimento A/B, 
 
 `Python` `Pandas` `SciPy` `Statsmodels` `Tests A/B` `Corrección de Bonferroni`
 
-<!-- Sube tu captura del gráfico del embudo y descomenta esta línea: -->
+![texto](assets/img/abtestembudo.png
 <!-- ![Embudo de conversión por grupo A/B](assets/img/abtest-embudo.png) -->
 
 **Metodología:** verificación de la asignación aleatoria de ~14,500 usuarios; construcción del embudo (login → producto → carrito → compra); pruebas de proporciones con corrección de Bonferroni por comparar 4 eventos simultáneamente.
