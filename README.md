@@ -69,4 +69,4 @@ Evaluación de un nuevo sistema de recomendaciones mediante un experimento A/B, 
 
 - **Segmentación de mercado global — Videojuegos:** análisis de ventas por plataforma, género y región (EE.UU., Europa, Japón); Japón muestra un comportamiento de consumo distinto que justifica estrategias segmentadas por región. `Python` `Pruebas t` — **[Ver código →](https://github.com/Sara-MST/segmentacion-videojuegos)**
 
-- **Análisis SQL — Base de datos de un servicio de lectura:** consultas SQL sobre libros, autores y calificaciones; los usuarios que más califican escriben en promedio menos reseñas de texto de lo esperado. `SQL` `SQLAlchemy` — **[Ver código →](https://github.com/Sara-MST/sql-libros)**
+- **Análisis SQL — Base de datos de un servicio de lectura:** consultas SQL sobre libros, autores y calificaciones; los usuarios que más califican escriben en promedio menos reseñas de texto de lo esperado. `SQL` `SQLAlchemy` — **[Ver código →](https://github.com/Sara-MST/SQL-libros)**
