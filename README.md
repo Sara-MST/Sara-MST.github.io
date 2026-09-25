@@ -63,6 +63,21 @@ Evaluación de un nuevo sistema de recomendaciones mediante un experimento A/B, 
 
 **[Ver código completo →](https://github.com/Sara-MST/ab-test-embudo)**
 
+
+## 3. Detección de señales de farmacovigilancia — Apixabán (openFDA/FAERS)
+
+Análisis de reportes reales de eventos adversos de un anticoagulante oral, extraídos vía la API pública de la FDA, para identificar las reacciones adversas más frecuentes y evaluar si la edad del paciente se asocia con la gravedad del caso.
+
+`Python` `Requests` `SciPy (Mann-Whitney)` `Seaborn` `Farmacovigilancia`
+
+![texto](https://sara-mst.github.io/assets/img/top_reacciones.png)
+
+**Metodología:** extracción de 1,000 reportes de apixabán vía API de openFDA; limpieza y normalización de variables (sexo, gravedad, edad por unidad); prueba de Mann-Whitney comparando edad entre casos graves y no graves.
+
+**Resultado:** se identificaron señales de seguridad clínicamente coherentes (sangrado, eventos cerebrovasculares) y una diferencia estadísticamente significativa en edad según gravedad (p=0.043), interpretada con cautela por el sesgo de notificación típico de FAERS.
+
+**[Ver código completo →](https://github.com/Sara-MST/farmacovigilancia-apixaban)**
+
 ---
 
 ## Otros proyectos
